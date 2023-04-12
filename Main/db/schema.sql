@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS TeacherTalk_db;
+CREATE DATABASE TeacherTalk_db;
