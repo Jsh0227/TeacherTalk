@@ -3,5 +3,17 @@
     "name": "Need help finding glue",
     "description": "I teach Kindergarten.  We have a Easter Bunny project and I have no glue.",
     "needed_funding": 5000
+  },
+
+  {
+    "name": "What would you do?",
+    "description": "There's a parent who is unhappy with a grade I gave her child.  The assignment was handed in late. I took off 20 points.  What would you do? ",
+    "needed_funding": 5000
+  },
+
+  {
+    "name": "Spring Break!",
+    "description": "Everyone enjoy your Spring Break!  This is the final quarter. Let the countdown to summer begin!",
+    "needed_funding": 5000
   }
 ]

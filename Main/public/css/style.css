@@ -13,12 +13,11 @@ header, .project:not(:last-child) {
 }
 
 .no-button:hover {
-  color: #065b83;
+  color: black;
   text-decoration: underline;
 }
 
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
+
+.color{
+  color:black
 }
