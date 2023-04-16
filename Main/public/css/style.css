@@ -21,3 +21,13 @@ header, .project:not(:last-child) {
 .color{
   color:black
 }
+.font{
+  font-family: 'Tangerine', serif;
+  font-size: 65px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+.button-success {
+  background: rgb(28, 184, 65);
+  /* this is a green */
+}
