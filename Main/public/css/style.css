@@ -22,7 +22,7 @@ header, .project:not(:last-child) {
   color:black
 }
 .font{
-  font-family: 'Tangerine', serif;
+  font-family: 'Sedgwick Ave Display','Tangerine', serif;
   font-size: 65px;
   text-shadow: 4px 4px 4px #aaa;
 }
@@ -37,3 +37,19 @@ header, .project:not(:last-child) {
   /* this is a green */
 }
 
+html{
+  background-image: url("Main/public/css/Images/TeacherTalk.jpg");
+}
+div.nth-child{
+  background-color: black;
+}
+
+.font-color{
+  color:darkgreen;
+  font-size: 25px;
+}
+.header-font{
+  font-family: 'Sedgwick Ave Display';
+  font-size: 70px;
+  color: red;
+}
