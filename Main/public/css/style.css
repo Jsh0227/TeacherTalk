@@ -27,7 +27,13 @@ header, .project:not(:last-child) {
   text-shadow: 4px 4px 4px #aaa;
 }
 
+.new-font{
+  font-family: 'Dongle', serif;
+  font-size: 45px;
+}
+
 .button-success {
   background: rgb(28, 184, 65);
   /* this is a green */
 }
+
