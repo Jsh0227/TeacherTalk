@@ -7,7 +7,7 @@ header, .project:not(:last-child) {
   border: none;
   padding: 0;
   cursor: pointer;
-  color: #1b89bc;
+  color: black;
   text-decoration: none;
   font-size: 100%;
 }
@@ -37,11 +37,12 @@ header, .project:not(:last-child) {
   /* this is a green */
 }
 
-html{
-  background-image: url("Main/public/css/Images/TeacherTalk.jpg");
+ html{
+  background-image:url(/Users/jsh/Desktop/TeacherTalk/Main/public/Images/TeacherTalk.jpg);
 }
+
 div.nth-child{
-  background-color: black;
+  background-color: darkgrey;
 }
 
 .font-color{
