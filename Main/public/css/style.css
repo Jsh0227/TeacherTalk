@@ -38,7 +38,7 @@ header, .project:not(:last-child) {
 }
 
  html{
-  background-image:url(/Users/jsh/Desktop/TeacherTalk/Main/public/Images/TeacherTalk.jpg);
+  background-image:url(TeacherTalk.jpg);
 }
 
 div.nth-child{
@@ -46,11 +46,17 @@ div.nth-child{
 }
 
 .font-color{
-  color:darkgreen;
+  color: black;
   font-size: 25px;
 }
 .header-font{
   font-family: 'Sedgwick Ave Display';
   font-size: 70px;
   color: red;
+}
+
+.title-font{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  color:black;
 }
