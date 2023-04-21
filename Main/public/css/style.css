@@ -7,7 +7,7 @@ header, .project:not(:last-child) {
   border: none;
   padding: 0;
   cursor: pointer;
-  color: #1b89bc;
+  color: black;
   text-decoration: none;
   font-size: 100%;
 }
@@ -20,4 +20,43 @@ header, .project:not(:last-child) {
 
 .color{
   color:black
+}
+.font{
+  font-family: 'Sedgwick Ave Display','Tangerine', serif;
+  font-size: 65px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+.new-font{
+  font-family: 'Dongle', serif;
+  font-size: 45px;
+}
+
+.button-success {
+  background: rgb(28, 184, 65);
+  /* this is a green */
+}
+
+ html{
+  background-image:url(TeacherTalk.jpg);
+}
+
+div.nth-child{
+  background-color: darkgrey;
+}
+
+.font-color{
+  color: black;
+  font-size: 25px;
+}
+.header-font{
+  font-family: 'Sedgwick Ave Display';
+  font-size: 70px;
+  color: red;
+}
+
+.title-font{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  color:black;
 }
